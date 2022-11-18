@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-oauth2.git"
+    "url": "git:https://github.com/ItsPikzy/passport-oauth2"
   },
   "bugs": {
     "url": "http://github.com/jaredhanson/passport-oauth2/issues"
